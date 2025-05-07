@@ -2,7 +2,7 @@ import React from "react";
 import BottomNav from "../components/shared/BottomNav";
 import BackButton from "../components/shared/BackButton";
 import { MdRestaurantMenu } from "react-icons/md";
-import MenuContainer from "../components/menu/menuContainer";
+import MenuContainer from "../components/menu/MenuContainer";
 import CustomerInfo from "../components/menu/CustomerInfo";
 import CartInfo from "../components/menu/CartInfo";
 import BillInfo from "../components/menu/BillInfo";
