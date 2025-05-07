@@ -15,7 +15,7 @@ connectDB();
 // Middlewares
 app.use(cors({
     credentials: true,
-    origin: ['http://localhost:5173']
+    origin: ['https://pos-folder-frontend.onrender.com']
 }));
 app.use(express.json()); // parse income requist in json formate
 app.use(cookieParser()); 
